@@ -1,0 +1,16 @@
+C:\Users\manuel.bascoy\code\git\Console Game\bin\Debug\net5.0\Console Game.exe
+C:\Users\manuel.bascoy\code\git\Console Game\bin\Debug\net5.0\Console Game.deps.json
+C:\Users\manuel.bascoy\code\git\Console Game\bin\Debug\net5.0\Console Game.runtimeconfig.json
+C:\Users\manuel.bascoy\code\git\Console Game\bin\Debug\net5.0\Console Game.runtimeconfig.dev.json
+C:\Users\manuel.bascoy\code\git\Console Game\bin\Debug\net5.0\Console Game.dll
+C:\Users\manuel.bascoy\code\git\Console Game\bin\Debug\net5.0\ref\Console Game.dll
+C:\Users\manuel.bascoy\code\git\Console Game\bin\Debug\net5.0\Console Game.pdb
+C:\Users\manuel.bascoy\code\git\Console Game\obj\Debug\net5.0\Console Game.csproj.AssemblyReference.cache
+C:\Users\manuel.bascoy\code\git\Console Game\obj\Debug\net5.0\Console Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manuel.bascoy\code\git\Console Game\obj\Debug\net5.0\Console Game.AssemblyInfoInputs.cache
+C:\Users\manuel.bascoy\code\git\Console Game\obj\Debug\net5.0\Console Game.AssemblyInfo.cs
+C:\Users\manuel.bascoy\code\git\Console Game\obj\Debug\net5.0\Console Game.csproj.CoreCompileInputs.cache
+C:\Users\manuel.bascoy\code\git\Console Game\obj\Debug\net5.0\Console Game.dll
+C:\Users\manuel.bascoy\code\git\Console Game\obj\Debug\net5.0\ref\Console Game.dll
+C:\Users\manuel.bascoy\code\git\Console Game\obj\Debug\net5.0\Console Game.pdb
+C:\Users\manuel.bascoy\code\git\Console Game\obj\Debug\net5.0\Console Game.genruntimeconfig.cache
