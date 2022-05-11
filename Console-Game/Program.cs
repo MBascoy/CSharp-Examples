@@ -10,8 +10,8 @@ namespace ConsoleGame
       Console.CursorVisible = false;
 
       // Determine bounds and set starting positions
-      int rows = Console.BufferHeight;
-      int cols = Console.BufferWidth;
+      int rows = 30;
+      int cols = 40;
       char cursor = '<';
       int characterRow = rows / 2;
       int characterCol = cols / 2;

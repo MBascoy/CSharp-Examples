@@ -1,5 +1,0 @@
-C:\Users\manuel.bascoy\code\git\Console Game\bin\Debug\net5.0\publish\Console Game.exe
-C:\Users\manuel.bascoy\code\git\Console Game\bin\Debug\net5.0\publish\Console Game.dll
-C:\Users\manuel.bascoy\code\git\Console Game\bin\Debug\net5.0\publish\Console Game.deps.json
-C:\Users\manuel.bascoy\code\git\Console Game\bin\Debug\net5.0\publish\Console Game.runtimeconfig.json
-C:\Users\manuel.bascoy\code\git\Console Game\bin\Debug\net5.0\publish\Console Game.pdb
