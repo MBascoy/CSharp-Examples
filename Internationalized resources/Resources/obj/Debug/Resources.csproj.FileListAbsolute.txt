@@ -1,0 +1,11 @@
+C:\Users\manuel.bascoy\lab\Internationalized resources\Resources\bin\Debug\Resources.dll
+C:\Users\manuel.bascoy\lab\Internationalized resources\Resources\bin\Debug\Resources.pdb
+C:\Users\manuel.bascoy\lab\Internationalized resources\Resources\bin\Debug\en\Resources.resources.dll
+C:\Users\manuel.bascoy\lab\Internationalized resources\Resources\obj\Debug\Resources.csproj.AssemblyReference.cache
+C:\Users\manuel.bascoy\lab\Internationalized resources\Resources\obj\Debug\Resources.Listado.resources
+C:\Users\manuel.bascoy\lab\Internationalized resources\Resources\obj\Debug\Resources.Listado.en.resources
+C:\Users\manuel.bascoy\lab\Internationalized resources\Resources\obj\Debug\Resources.csproj.GenerateResource.cache
+C:\Users\manuel.bascoy\lab\Internationalized resources\Resources\obj\Debug\Resources.csproj.CoreCompileInputs.cache
+C:\Users\manuel.bascoy\lab\Internationalized resources\Resources\obj\Debug\en\Resources.resources.dll
+C:\Users\manuel.bascoy\lab\Internationalized resources\Resources\obj\Debug\Resources.dll
+C:\Users\manuel.bascoy\lab\Internationalized resources\Resources\obj\Debug\Resources.pdb
