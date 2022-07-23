@@ -1,0 +1,6 @@
+.vs
+packages/
+WebApp/bin/
+WebApp/obj/
+Resources/obj/
+Resources/bin/
