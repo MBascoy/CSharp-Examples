@@ -1,0 +1,12 @@
+﻿@page
+@functions
+{
+    public String Dia { get; set; }
+
+    public void OnGet()
+    {
+        Model.Dia = DateTime.Now.DayOfWeek.ToString();
+    }
+}
+
+<h1>Dia de la semana: @Model.Dia</h1>

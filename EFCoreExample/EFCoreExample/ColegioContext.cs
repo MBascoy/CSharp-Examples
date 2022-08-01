@@ -9,10 +9,15 @@ namespace EFCoreExample
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionBuilder)
         {
-            string connection = "Data Source=.;" +
-                "Initial Catalog = Colegio;" +
-                "Integrated Security = true;" +
-                "MultipleActiveResultSets = true;";
+            string connection = "Server = tcp:efcoreexample.database.windows.net,1433;" +
+                "Initial Catalog = EFCoreExample;" +
+                "Persist Security Info = False;" +
+                "User ID = EFCore;" +
+                "Password = abc123.,;" +
+                "MultipleActiveResultSets = False;" +
+                "Encrypt = True;" +
+                "TrustServerCertificate = False;" +
+                "Connection Timeout = 30;";
 
             optionBuilder.UseSqlServer(connection);
 

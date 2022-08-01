@@ -1,0 +1,12 @@
+﻿@page
+@functions
+{
+    public int Epoch { get; set; }
+
+    public void OnGet()
+    {
+        Model.Epoch = (int) (DateTime.Now - new DateTime(1970, 1, 1)).TotalSeconds;
+    }
+}
+
+<h1>Unix time: @Model.Epoch</h1>
